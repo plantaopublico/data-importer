@@ -53,5 +53,8 @@
     "nyc": "^10.2.0",
     "sinon": "^2.1.0",
     "standard": "^10.0.1"
+  },
+  "dependencies": {
+    "babyparse": "^0.4.6"
   }
 }
