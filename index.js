@@ -1,6 +1,6 @@
-const prefeituraCsvImporter = require('./importers/prefeitura-csv-importer')
+//const doctorsCsvImporter = require('./importers/doctors-ahmsp-importer')
 
 
-return prefeituraCsvImporter('./assets/deinfosacadsau2014.csv')
+//return doctorsCsvImporter('./assets/funcionarioshspm.csv')
 //.then((data) => console.log("DATA", data))
 //.catch((data) => console.log("DATA", data))
